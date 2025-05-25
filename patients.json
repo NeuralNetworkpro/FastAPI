@@ -1,0 +1,52 @@
+{
+    "P001": {
+        "name": "John Doe",
+        "age": 30,
+        "city": "New York",
+        "gender":"male",
+        "height": 175,
+        "weight": 70,
+        "bmi": 22.9,
+        "verdict": "healthy"
+    },
+    "P002": {
+        "name": "Jane Smith",
+        "age": 45,
+        "city": "Los Angeles",
+        "gender":"female",
+        "height": 160,
+        "weight": 80,
+        "bmi": 31.2,
+        "verdict": "overweight"
+    },
+    "P003": {
+        "name": "Alice Johnson",
+        "age": 28,
+        "city": "Chicago",
+        "gender":"female",
+        "height": 165,
+        "weight": 55,
+        "bmi": 20.2,
+        "verdict": "healthy"
+    },
+    "P004": {
+        "name": "Bob Brown",
+        "age": 50,
+        "city": "Houston",
+        "gender":"male",
+        "height": 180,
+        "weight": 90,
+        "bmi": 27.8,
+        "verdict": "overweight"
+    },
+    "P005": {
+        "name": "Charlie Davis",
+        "age": 35,
+        "city": "Phoenix",
+        "gender":"male",
+        "height": 170,
+        "weight": 65,
+        "bmi": 22.5,
+        "verdict": "healthy"
+    }
+}
